@@ -15,7 +15,7 @@ The dependencies that were downloaded were ascoltatori but never used.
 5)node Js
 
 ### Screenshot
-![](./Atugan-Project/images/MQTTvisual.png)
+![](./images/MQTTvisual.png)
 
 ## Issues
 During this implementation, I have some issues of trying to connect mosquitto with c, and node js directly through the code. I was successfully able to display the broker, subscriber, and publisher though the command prompt. I was able to see the code and messages through the Mqtt broker.
